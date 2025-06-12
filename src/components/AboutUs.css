@@ -1,0 +1,25 @@
+.about-us-container {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  padding: 2.5rem 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+.about-us-container h1 {
+  color: #0d6efd;
+  font-weight: 700;
+}
+.about-us-container h2 {
+  color: #343a40;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+.about-us-container ul {
+  list-style: disc inside;
+  padding-left: 1rem;
+}
+.about-us-container li {
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
